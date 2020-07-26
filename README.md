@@ -1,4 +1,5 @@
 # Google dork cheatsheet
+Source: https://gist.github.com/sundowndev/283efaddbcf896ab405488330d1bbc06
 
 ## Search filters
 | Filter          | Description                                        | Example                              |
